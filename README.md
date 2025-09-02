@@ -52,6 +52,9 @@ This project implements an end-to-end machine learning pipeline for predicting c
 ## Methodology / Approach
 
 ### Data
+
+- Dataset source - [Kaggle](https://www.kaggle.com/datasets/smayanj/customer-churn-prediction-dataset)
+
 - **Dataset**: The model is trained on a dataset containing 50,000 customer records with the following features:
   - `tenure_months`: Number of months as a customer
   - `monthly_usage_hours`: Average monthly usage hours
